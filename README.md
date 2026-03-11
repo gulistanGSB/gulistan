@@ -1,2 +1,2 @@
-# traditional bakery
-name gulistan sweet bakery
+# gulistan sweet bakery
+traditional bakery
